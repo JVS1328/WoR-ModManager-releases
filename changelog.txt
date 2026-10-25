@@ -1,8 +1,5 @@
-WoR Mod Manager 1.0.2
+WoR Mod Manager 1.0.3
 
-- Already have MAW installed from before the manager? It's found automatically on launch, managed from then on, and checked against the latest version: only the out-of-date files download.
-- Files left over from an older version of a Red's Corner mod are pointed out, with a button to remove them.
-- The app is now WoRModManager.exe.
-- Updates and the Red's Corner list now come from this repo.
-
-New download: unzip WoR-Mod-Manager-v1.0.2.zip and run WoRModManager.exe (first launch: More info -> Run anyway).
+- Do several things at once: install or update more than one mod at the same time, and keep switching mods on and off, adding, removing and uninstalling others while downloads run.
+- Each mod shows its own progress and Cancel, the same on its Red's Corner and My Library cards. A mod you start installing appears in My Library right away.
+- The status bar lists everything in progress.

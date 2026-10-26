@@ -1,5 +1,3 @@
-WoR Mod Manager 1.0.3
+WoR Mod Manager 1.0.4
 
-- Do several things at once: install or update more than one mod at the same time, and keep switching mods on and off, adding, removing and uninstalling others while downloads run.
-- Each mod shows its own progress and Cancel, the same on its Red's Corner and My Library cards. A mod you start installing appears in My Library right away.
-- The status bar lists everything in progress.
+- Mod updates are much smaller to publish, so fixes like game-patch updates reach you faster. Your downloads are the same as before: only the files that changed.

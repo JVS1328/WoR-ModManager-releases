@@ -1,3 +1,5 @@
-WoR Mod Manager 1.0.4
+WoR Mod Manager 1.0.5
 
-- Mod updates are much smaller to publish, so fixes like game-patch updates reach you faster. Your downloads are the same as before: only the files that changed.
+- Play button: launch War of Rights straight from the manager. While the game is running (however you started it), the manager locks mod changes so nothing touches the game's files mid-session.
+- Uniform profiles: keep a separate set of uniforms for the base game and for each reskin (MaW and others). Pick a profile from the new bar under the tabs; whatever you change in-game is saved into the selected profile, and switching swaps your uniforms in one click. Create, rename and delete profiles from the ⋯ menu.
+- Uniform customizer: Customize… lets you set up a profile's uniforms slot by slot (jacket, shirt, hat, belt…) without starting the game. It lists the regiments of the mods you have enabled, under their own names (MaW's regiments as MaW names them), and only offers combinations the game allows.

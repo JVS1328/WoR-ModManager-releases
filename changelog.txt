@@ -1,7 +1,3 @@
-WoR Mod Manager 1.2.1
+WoR Mod Manager 1.2.2
 
-Fixes to the 3D uniform preview:
-- No more hair through hats: each hairstyle now shows the version the game uses under a cap, kepi or slouch hat, or under a fez or turban.
-- No more arms through sleeves: long-sleeved jackets and greatcoats show only the hands, rolled sleeves show bare arms, and gloved coats show neither, the same way the game does.
-- Coat skirts no longer let the trousers poke through. Loose parts the game moves with physics (coat skirts, capes, sashes, sword straps, fez and turban tassels, cords) now settle on the body the way they come to rest in the game: tassels hang down the back of the head instead of standing straight out, and skirts sit over a leg that steps forward.
-- That physics comes from each item's own settings in the game files, so items added by your enabled mods settle by their own settings too.
+- Fixed the uniform customizer's 3D preview showing "Nothing to show for this uniform" when a mod that changes uniforms is enabled (Men at War, Crimea, or a reskin). Those mods edit the game's item list in a way the manager misread; it now reads the list the way the game does.

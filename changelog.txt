@@ -1,3 +1,4 @@
-WoR Mod Manager 1.2.2
+WoR Mod Manager 1.3.0
 
-- Fixed the uniform customizer's 3D preview showing "Nothing to show for this uniform" when a mod that changes uniforms is enabled (Men at War, Crimea, or a reskin). Those mods edit the game's item list in a way the manager misread; it now reads the list the way the game does.
+- New: a short guided tour of the manager. It runs once the first time you open this version, highlights each part of the window in turn, and can be skipped at any time (Skip tour or Esc).
+- New: a Help button (the ? next to Settings, or press F1) with how-tos for installing, adding, switching off and removing mods, uniform profiles, ReShade and servers, plus fixes for common problems. Take the tour again from there whenever you like.

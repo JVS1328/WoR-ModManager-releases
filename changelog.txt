@@ -1,4 +1,3 @@
-WoR Mod Manager 1.3.0
+WoR Mod Manager 1.4.2
 
-- New: a short guided tour of the manager. It runs once the first time you open this version, highlights each part of the window in turn, and can be skipped at any time (Skip tour or Esc).
-- New: a Help button (the ? next to Settings, or press F1) with how-tos for installing, adding, switching off and removing mods, uniform profiles, ReShade and servers, plus fixes for common problems. Take the tour again from there whenever you like.
+- Fixed: the 3D preview in Customize uniforms no longer stops with "Number of entries expected in End Of Central Directory does not correspond…" when one mod file is damaged. That file is skipped and the rest of the soldier shows. If a mod's pieces look wrong in the preview, reinstall that mod.

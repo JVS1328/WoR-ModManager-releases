@@ -1,3 +1,4 @@
-WoR Mod Manager 1.4.2
+WoR Mod Manager 1.4.3
 
-- Fixed: the 3D preview in Customize uniforms no longer stops with "Number of entries expected in End Of Central Directory does not correspond…" when one mod file is damaged. That file is skipped and the rest of the soldier shows. If a mod's pieces look wrong in the preview, reinstall that mod.
+- Fixed: Customize uniforms no longer crashes ("A new guard page for the stack cannot be created") when you change many uniforms at once.
+- Save now keeps the Customize uniforms window open, so you can save and carry on editing. It shows when it last saved, and closing the window with unsaved changes asks first.
